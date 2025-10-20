@@ -1,2 +1,8 @@
 # Linux-hdd-led
-show HDD LED in tray
+show HDD LED as tray icon
+## Requirements
+- python3
+- gobject
+
+## Usage
+python3 hdd_led.py sda
