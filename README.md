@@ -12,3 +12,6 @@ python3 hdd_led.py sda
 ```
 python3 hdd_led_double.py sda sdb
 ```
+## Credits
+
+Thanks to [mdoege](https://github.com/mdoege/hd-led_pygtk)
